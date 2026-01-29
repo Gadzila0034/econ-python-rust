@@ -25,12 +25,12 @@ python statistics_app/main.py
  
 ## Features 
  
-? **Rust backend** - high-performance statistical calculations 
-? **Python GUI** - intuitive Tkinter interface 
-? **Complete statistics** - mean, variance, skewness, kurtosis 
-? **Medians and modes** - calculation by intervals 
-? **Histograms** - distribution visualization 
-? **Large datasets** - supports 100,000+ data points 
+  **Rust backend** - high-performance statistical calculations 
+ **Python GUI** - intuitive Tkinter interface 
+ **Complete statistics** - mean, variance, skewness, kurtosis 
+ **Medians and modes** - calculation by intervals 
+ **Histograms** - distribution visualization 
+ **Large datasets** - supports 100,000+ data points 
  
 ## Requirements 
  
