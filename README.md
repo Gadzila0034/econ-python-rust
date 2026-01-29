@@ -1,8 +1,8 @@
-# ?? Statistical Analyzer with Rust Backend 
+# Statistical Analyzer with Rust Backend 
  
 Project for statistical data analysis with high-performance Rust backend and Python GUI interface. 
  
-## ?? Quick Start 
+## Quick Start 
  
 ### Installation: 
 \`\`\`bash 
@@ -23,7 +23,7 @@ cd ..
 python statistics_app/main.py 
 \`\`\` 
  
-## ?? Features 
+## Features 
  
 ? **Rust backend** - high-performance statistical calculations 
 ? **Python GUI** - intuitive Tkinter interface 
@@ -32,13 +32,13 @@ python statistics_app/main.py
 ? **Histograms** - distribution visualization 
 ? **Large datasets** - supports 100,000+ data points 
  
-## ?? Requirements 
+## Requirements 
  
 - Python 3.8+ 
 - Rust (installed automatically via maturin) 
 - Tkinter (usually included with Python) 
  
-## ?? Usage 
+## Usage 
  
 1. Run the application: \`python statistics_app/main.py\` 
 2. Input data through the interface 
