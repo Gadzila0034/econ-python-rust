@@ -1,0 +1,12 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+.venv/ 
+venv/ 
+Режим вывода команд на экран (ECHO) включен.
+# Rust 
+rust-core/target/ 
+rust-core/Cargo.lock 
+Режим вывода команд на экран (ECHO) включен.
+# Project 
+statistics_app/data/ 
